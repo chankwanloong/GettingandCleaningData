@@ -20,6 +20,7 @@ Description: Subject who performed the activity for each window sample. Its rang
 Description: The average of the mean or standard deviation for each measurement. There are 66 of these average variables.
 
 averagetBodyAcc.mean...X
+
 averagetBodyAcc.mean...Y
 averagetBodyAcc.mean...Z
 averagetBodyAcc.std...X
