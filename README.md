@@ -13,9 +13,7 @@ The purpose of this project is to demonstrate an ability to collect, work with, 
 * The dplyr package has been installed.
 
 ## Instructions
-Run run_analysis.R by typing source("run_analysis.R") in Console.
-
-The run_analysis.R script does the following steps:
+Run run_analysis.R by typing source("run_analysis.R") in Console. The script does the following steps:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
