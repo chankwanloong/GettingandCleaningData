@@ -5,7 +5,7 @@ There are 180 observations of 68 variables in tidydata.txt. Each observation sho
 ## Variables
 
 ### activity
-Description: Activity performed by each subject. There are a total of 6 activities listed below.
+Description: Activity performed by each subject. There are 6 activities.
 * WALKING
 * WALKING_UPSTAIRS
 * WALKING_DOWNSTAIRS
@@ -17,7 +17,7 @@ Description: Activity performed by each subject. There are a total of 6 activiti
 Description: Subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 ### average...
-Description: The average of the mean or standard deviation for each measurement. There are a total of 66 average variables.
+Description: The average of the mean or standard deviation for each measurement. There are 66 of these average variables.
 
 averagetBodyAcc.mean...X
 averagetBodyAcc.mean...Y
@@ -85,5 +85,3 @@ averagefBodyBodyGyroMag.mean..
 averagefBodyBodyGyroMag.std..
 averagefBodyBodyGyroJerkMag.mean..
 averagefBodyBodyGyroJerkMag.std..
-
-
